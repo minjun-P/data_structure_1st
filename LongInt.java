@@ -176,7 +176,7 @@ public class LongInt {
 
 //   print the value of 'this' element to the standard output.
   public void print() {
-    System.out.println(numString);
+    System.out.print(numString);
   }
 
 }
